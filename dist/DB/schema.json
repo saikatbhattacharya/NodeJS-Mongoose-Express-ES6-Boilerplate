@@ -1,0 +1,11 @@
+{
+    "users":{
+        "name":"String",
+        "outletId":"String",
+        "role": "String",
+        "password": "String",
+        "gstID": "String",
+        "address1": "String",
+        "address2": "String"
+    }
+}
